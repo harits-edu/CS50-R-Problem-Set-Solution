@@ -4,6 +4,8 @@ This repository contains my solutions for **CS50R (R Programming Track)**.
 Harvard's introductory course on data science and programming in R.  
 Each folder corresponds to one problem set, with clean, well-documented code that demonstrates core R programming concepts.
 
+October 2025.
+
 ---
 
 ## Table of Contents
