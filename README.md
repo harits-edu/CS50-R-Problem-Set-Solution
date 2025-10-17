@@ -1,11 +1,11 @@
-# 📘 CS50R – Problem Set Solutions
+# CS50R – Problem Set Solutions
 
 This repository contains my solutions for **CS50R (R Programming Track)** — Harvard's introductory course on data science and programming in R.  
 Each folder corresponds to one problem set, with clean, well-documented code that demonstrates core R programming concepts.
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 | No. | Problem Set | Description |
 |-----|--------------|-------------|
@@ -18,9 +18,9 @@ Each folder corresponds to one problem set, with clean, well-documented code tha
 
 ---
 
-## 🧩 Problem Set Details
+## Problem Set Details
 
-### 1️⃣ Representing Data
+### 1. Representing Data
 **Folder:** [`1-Representing-Data`](./1-Representing-Data)  
 **Focus:**  
 - Understanding vectors, factors, and data frames.  
@@ -29,7 +29,7 @@ Each folder corresponds to one problem set, with clean, well-documented code tha
 
 ---
 
-### 2️⃣ Transforming Data
+### 2. Transforming Data
 **Folder:** [`2-Transforming-Data`](./2-Transforming-Data)  
 **Focus:**  
 - Data filtering, summarization, and joining with `dplyr`.  
@@ -37,7 +37,7 @@ Each folder corresponds to one problem set, with clean, well-documented code tha
 
 ---
 
-### 3️⃣ Applying Functions
+### 3. Applying Functions
 **Folder:** [`3-Applying-Functions`](./3-Applying-Functions)  
 **Focus:**  
 - Writing custom R functions.  
@@ -45,7 +45,7 @@ Each folder corresponds to one problem set, with clean, well-documented code tha
 
 ---
 
-### 4️⃣ Tidying Data
+### 4. Tidying Data
 **Folder:** [`4-Tidying-Data`](./4-Tidying-Data)  
 **Focus:**  
 - Reshaping datasets with `pivot_longer()` and `pivot_wider()`.  
@@ -53,7 +53,7 @@ Each folder corresponds to one problem set, with clean, well-documented code tha
 
 ---
 
-### 5️⃣ Visualizing Data
+### 5. Visualizing Data
 **Folder:** [`5-Visualizing-Data`](./5-Visualizing-Data)  
 **Focus:**  
 - Building plots using `ggplot2`.  
@@ -61,7 +61,7 @@ Each folder corresponds to one problem set, with clean, well-documented code tha
 
 ---
 
-### 6️⃣ Testing Programs
+### 6. Testing Programs
 **Folder:** [`6-Testing-Programs`](./6-Testing-Programs)  
 **Focus:**  
 - Unit testing with `testthat`.  
@@ -69,7 +69,7 @@ Each folder corresponds to one problem set, with clean, well-documented code tha
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Language:** R  
 - **Libraries:** `tidyverse`, `lubridate`, `stringr`, `testthat`, `ggplot2`  
@@ -77,14 +77,13 @@ Each folder corresponds to one problem set, with clean, well-documented code tha
 
 ---
 
-## ✍️ Author
+## Author
 
-**Harits**  
-_Electrical Engineering Student — CS50R Learner_  
+**Haritsyam Anshari**  
 [GitHub Profile](https://github.com/harits-edu)
 
 ---
 
 ## 🪪 License
 This project is for **educational purposes** and follows the CS50 Academic Honesty policy.  
-Feel free to explore, learn, and use it as a reference — but avoid submitting these solutions directly as your own.
+Feel free to explore, learn, and use it as a reference and avoid submitting these solutions directly as your own.
