@@ -1,20 +1,21 @@
 # CS50R – Problem Set Solutions
 
-This repository contains my solutions for **CS50R (R Programming Track)** — Harvard's introductory course on data science and programming in R.  
+This repository contains my solutions for **CS50R (R Programming Track)**.
+Harvard's introductory course on data science and programming in R.  
 Each folder corresponds to one problem set, with clean, well-documented code that demonstrates core R programming concepts.
 
 ---
 
 ## Table of Contents
 
-| No. | Problem Set | Description |
+| No. | Problem Set | Problem Link |
 |-----|--------------|-------------|
-| [1. Representing Data](#1--representing-data) | [📂 Folder](./1-Representing-Data) | Learn to represent and structure data using R’s fundamental types and data frames. |
-| [2. Transforming Data](#2--transforming-data) | [📂 Folder](./2-Transforming-Data) | Perform data manipulation and transformation using the `tidyverse` toolkit. |
-| [3. Applying Functions](#3--applying-functions) | [📂 Folder](./3-Applying-Functions) | Explore how to automate and generalize operations using functions and iteration. |
-| [4. Tidying Data](#4--tidying-data) | [📂 Folder](./4-Tidying-Data) | Clean, reshape, and organize messy datasets into tidy formats. |
-| [5. Visualizing Data](#5--visualizing-data) | [📂 Folder](./5-Visualizing-Data) | Create informative and aesthetic visualizations using `ggplot2`. |
-| [6. Testing Programs](#6--testing-programs) | [📂 Folder](./6-Testing-Programs) | Write robust, testable R code and automate testing with `testthat`. |
+| [1. Representing Data](#1--representing-data) | [📂 Folder](./1-Representing-Data) | https://cs50.harvard.edu/r/psets/1/ |
+| [2. Transforming Data](#2--transforming-data) | [📂 Folder](./2-Transforming-Data) | https://cs50.harvard.edu/r/psets/2/ |
+| [3. Applying Functions](#3--applying-functions) | [📂 Folder](./3-Applying-Functions) | https://cs50.harvard.edu/r/psets/3/ |
+| [4. Tidying Data](#4--tidying-data) | [📂 Folder](./4-Tidying-Data) | https://cs50.harvard.edu/r/psets/4/ |
+| [5. Visualizing Data](#5--visualizing-data) | [📂 Folder](./5-Visualizing-Data) | https://cs50.harvard.edu/r/psets/5/ |
+| [6. Testing Programs](#6--testing-programs) | [📂 Folder](./6-Testing-Programs) | https://cs50.harvard.edu/r/psets/6/ |
 
 ---
 
