@@ -85,6 +85,6 @@ Each folder corresponds to one problem set, with clean, well-documented code tha
 
 ---
 
-## 🪪 License
+## License
 This project is for **educational purposes** and follows the CS50 Academic Honesty policy.  
 Feel free to explore, learn, and use it as a reference and avoid submitting these solutions directly as your own.
